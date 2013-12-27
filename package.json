@@ -1,0 +1,16 @@
+{
+	"name" : "Trinity",
+	"version" : "0.0.1",
+	"author" : "MaxguN <florent.fortat@maxgun.fr>",
+	"description" : "A dynamic loading content CMS",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/MaxguN/Trinity"
+	},
+	"dependencies" : {
+		"express" : "latest",
+		"socket.io" : "latest",
+		"mongoose" : "latest"
+	},
+	"private" : true
+}
